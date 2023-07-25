@@ -1,6 +1,8 @@
 0x01. Caching
 
 Back-end
+Background Context
+In this project, you learn different caching algorithms.
 
 Resources
 Read or watch:
@@ -38,4 +40,3 @@ A documentation is not a simple word, it’s a real sentence explaining what’s
 More Info
 Parent class BaseCaching
 All your classes must inherit from BaseCaching defined below:
-
